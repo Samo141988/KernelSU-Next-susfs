@@ -1,0 +1,6 @@
+--- kernel/.gitignore
++++ kernel/.gitignore
+@@ -0,0 +1,3 @@
++*.patch
++*.orig
++*.rej
